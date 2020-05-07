@@ -5,7 +5,7 @@
 - Build simple chatapp with listview
 - Based Flutter IDE Android Studio.
 - You guys can checkout in the demo section below this readme.md
-- If something wrong with your IDE, try to upadate your flutter pluggin/SDK/IDE to latest version.
+- If something wrong with your IDE, try to update your flutter pluggin/SDK/IDE to latest version.
 - Inspired by https://flutterawesome.com/a-flutter-customer-listview-that-displays-multiple-widget-types/
 - thanks for appreciate my simple app, bella ciao!
 
