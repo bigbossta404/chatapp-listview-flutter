@@ -1,6 +1,28 @@
-# multi_type_list_view_example
+# Chat App
 
-Demonstrates how to use the multi_type_list_view plugin.
+:: ENGLISH ::
+
+- Build simple chatapp with listview
+- Based Flutter IDE Android Studio.
+- You guys can checkout in the demo section below this readme.md
+- If something wrong with your IDE, try to upadate your flutter pluggin/SDK/IDE to latest version.
+- Inspired by https://flutterawesome.com/a-flutter-customer-listview-that-displays-multiple-widget-types/
+- thanks for appreciate my simple app, bella ciao!
+
+:: INDONESIA ::
+
+- Membangun aplikasi chat sederhana dengan listview serta avatar-nya
+- Berbasis flutter dengan IDE Android Studio.
+- Kalian bisa cek hasilnya di bagian demo bawah ini.
+- Jika terjadi sesuatu, pastikan dan cobalah untuk mengperbarui flutter pluggin/SDK/IDE nya ke versi terbaru
+- Terinspirasi dari https://flutterawesome.com/a-flutter-customer-listview-that-displays-multiple-widget-types/
+- Terimakasih sudah mengapresiasi aplikasi simple ini, Dah!
+
+## DEMO
+![home](demo/home.png) 
+![slide menu](demo/slidemenu.png)
+![Chat Room](demo/chatroom.png)
+
 
 ## Getting Started
 
